@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The head of water over a rectangular notch is 851mm. The length of the notch is 239mm. Find the discharge. Take cd = 0.68",
+      "qid": 1,
+      "option_a": "376.75 lit/sec",
+      "option_b": "353.4 lit/sec",
+      "option_c": "394.89 lit/sec",
+      "option_d": "327.37 lit/sec",
+      "correct_option": "a"
+   },
+   {
+      "question": "The head of water over a rectangular notch is 870mm. The length of the notch is 201mm. Find the discharge. Take cd = 0.64",
+      "qid": 2,
+      "option_a": "371.07 lit/sec",
+      "option_b": "354.21 litt/sec",
+      "option_c": "308.26 lit/sec",
+      "option_d": "387.33 lit/sec",
+      "correct_option": "c"
+   }
+]
