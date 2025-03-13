@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Discharge over rectangular notch is given by",
+        "qid": 1,
+        "option_a": "$$ C_d L \\sqrt{2g} H^{3/2} $$",
+        "option_b": "$$ \\frac{2}{3} C_d L \\sqrt{2g} H^{3/2} $$",
+        "option_c": "$$ \\frac{2}{3} C_d L \\sqrt{2g} H $$",
+        "option_d": "$$ \\frac{2}{3} C_d \\sqrt{2g} H^{3/2} $$",
+        "correct_option": "b"
+    },
+    {
+        "question": "Discharge over triangular notch is given by",
+        "qid": 2,
+        "option_a": "$$ \\frac{8}{15} C_d tan(\\theta) \\sqrt{2g} H^{5/2} $$",
+        "option_b": "$$ \\frac{8}{15} C_d tan(\\theta/2) 2g H^{5/2} $$",
+        "option_c": "$$ \\frac{8}{15} C_d tan(\\theta/2) \\sqrt{2g} H^{5/2} $$",
+        "option_d": "$$ \\frac{8}{15} C_d tan(\\theta/2) \\sqrt{2g} H $$",
+        "correct_option": "c"
+    }
+]
